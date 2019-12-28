@@ -3,3 +3,7 @@ function hello() {
 }
 
 hello();
+
+ws = () => {
+   console.log('go go')
+}
