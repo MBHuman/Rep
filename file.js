@@ -5,5 +5,9 @@ function hello() {
 hello();
 
 ws = () => {
-   console.log('go go')
+   console.log('go go');
+}
+
+wm = () => {
+    console.log('mmm mm');
 }
